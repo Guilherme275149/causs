@@ -5,7 +5,7 @@ const help = (prefix) => {
 ╠🐉 *MINATO BOT* 
 ╠🐉 *2.4*
 ╠🐉 𝐃𝐎𝐍𝐎:  ⃬⃗MINATO
-╠🐉 *wa.me/+5547992091566*
+╠🐉 *wa.me/+5511934488829*
 ╠🐉 𝐒𝐓𝐀𝐓𝐔𝐒: ON
 ║
 ╠══✪〘 NOVOS 〙✪══
