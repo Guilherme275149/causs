@@ -25,18 +25,31 @@ INSTALAÇÃO:
  termux-setup-storage 
 
 $ pkg install git
+
 $ pkg install ffmpeg 
+
 $ pkg install wget 
+
 $ pkg install nodejs 
+
 $ pkg install npm 
-$ git clone https://github.com/Guilherme275149/minatota
-$ cd minatota
+
+$ git clone https://github.com/Guilherme275149/causs
+
+$ cd causs
+
 $ bash install.sh
+
 $ Basta escanear o código qr e ... pronto
+
 >Caso seu bot comece a cair coloque esses comando
+
 $ pkg install pm2
+
 $ npm i -g pm2 
+
 $ pm2 start index.js
+
 $ pm2 monit
 
 ```
